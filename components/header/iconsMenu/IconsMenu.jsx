@@ -50,7 +50,21 @@ export const IconsMenu = () => {
             d="M6.5 18.5a1.5 1.5 0 1 0 0 3a1.5 1.5 0 0 0 0-3M16 20a1.5 1.5 0 1 1 3 0a1.5 1.5 0 0 1-3 0"
           ></path>
         </svg>
-        <p>0</p>
+        <p>0 Kc</p>
+      </div>
+
+      <div className="mobileMenu icon">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="28"
+          height="28"
+          viewBox="0 0 24 24"
+        >
+          <path
+            fill="currentColor"
+            d="M3 18v-2h18v2zm0-5v-2h18v2zm0-5V6h18v2z"
+          ></path>
+        </svg>
       </div>
     </StyledIconsMenu>
   );

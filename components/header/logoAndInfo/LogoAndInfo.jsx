@@ -6,12 +6,14 @@ import { StyledLogoAndInfo } from "./logoAndInfoStyle";
 export const LogoAndInfo = () => {
   return (
     <StyledLogoAndInfo>
-      <Image
-        src="https://www.zanapo.cz/files/upload/logo-zanapo-cz-index.svg"
-        width={250}
-        height={41}
-        alt="logo"
-      />
+      <div className="logoWrapper">
+        <Image
+          src="https://www.zanapo.cz/files/upload/logo-zanapo-cz-index.svg"
+          width={250}
+          height={41}
+          alt="logo"
+        />
+      </div>
       <ul>
         <li>Doprava a Platba </li>
         <li>O nás </li>

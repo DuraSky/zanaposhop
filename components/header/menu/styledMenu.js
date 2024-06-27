@@ -6,7 +6,9 @@ export const StyledMenu = styled.div`
   align-items: center;
   background-color: ${({ theme }) => theme.backgroundGrey};
   max-height: 50px;
-  width: 250px;
+  //width: 250px;
+  flex-grow: 1;
+  //min-width: 340px;
   padding: 20px;
   margin: 0px 15px;
   max-width: 300px;
@@ -27,5 +29,13 @@ export const StyledMenu = styled.div`
     width: 10px;
     height: 10px;
     transform: rotate(45deg) translateY(-50%);
+  }
+
+  @media (max-width: 1200px) {
+    background-color: transparent;
+  }
+
+  @media (max-width: 1000px) {
+    display: none;
   }
 `;

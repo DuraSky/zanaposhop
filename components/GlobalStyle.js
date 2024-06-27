@@ -9,6 +9,8 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     font-family: "Nunito", sans-serif;
+    font-size: 15px;
+    line-height: 24px;
 
   }
 `;

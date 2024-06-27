@@ -15,6 +15,11 @@ export const StyledTopBar = styled.div`
       font-weight: bold;
     }
 
+    .text {
+      display: flex;
+      gap: 5px;
+    }
+
     .langPicker {
       background-color: #f0f0f0;
       border-radius: 0 0 8px 8px;
@@ -34,5 +39,13 @@ export const StyledTopBar = styled.div`
         border-left: 0.3em solid transparent;
       }
     }
+  }
+
+  @media (max-width: 1000px) {
+    margin-left: 15px;
+  }
+
+  @media (max-width: 875px) {
+    justify-content: space-between;
   }
 `;

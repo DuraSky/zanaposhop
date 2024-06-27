@@ -35,11 +35,13 @@ export const TopBar = () => {
 
   return (
     <StyledTopBar ref={dropdownRef}>
-      <p>Potřebujete poradit ?</p>
-      <p>
-        <span>Volejte </span>+420 703 694 133
-        <span> (po - pá 8:00 - 16:00)</span>
-      </p>
+      <div className="text">
+        <p>Potřebujete poradit ?</p>
+        <p>
+          <span>Volejte </span>+420 703 694 133
+          <span> (po - pá 8:00 - 16:00)</span>
+        </p>
+      </div>
       <div className="langPicker" onClick={toggleDropdown}>
         <Image
           src={country.flag}
