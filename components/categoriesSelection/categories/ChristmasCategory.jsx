@@ -14,8 +14,9 @@ export const ChristmasCategory = () => {
       <StyledCategoryHeader>
         <Image
           src="https://test.zanapo.cz/files/upload/vanoce-ikona.svg"
-          width={35}
-          height={35}
+          width={65}
+          height={65}
+          alt="ikona"
         />
         <h2>Vánoce</h2>
       </StyledCategoryHeader>
@@ -26,6 +27,7 @@ export const ChristmasCategory = () => {
         <p>Vánoční věnce</p>
         <p>Vánoční baňky</p>
       </StyledSubCategory>
+
       {/* <ImageWrapper>
         <Image
           src="https://test.zanapo.cz/files/upload/vanoce-new.png"

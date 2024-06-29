@@ -4,8 +4,8 @@ import { ChessCategory } from "./categories/ChessCategory";
 import { DartsCategory } from "./categories/DartsCategory";
 import { PuzzleCategory } from "./categories/PuzzleCategory";
 import { ChristmasCategory } from "./categories/ChristmasCategory";
-import { TestCategory } from "./categories/testCategory";
-import { TestCategory2 } from "./categories/testCategory2";
+import { TestCategory } from "./categories/TestCategory";
+import { AnotherTestCategory } from "./categories/AnotherTestCategory";
 
 import { CategoriesWrapper } from "./categoriesStyle";
 
@@ -17,7 +17,10 @@ export const CategoriesSelection = () => {
       <PuzzleCategory />
       <ChristmasCategory />
       <TestCategory />
-      <TestCategory2 />
+      <AnotherTestCategory />
+      <ChessCategory />
+
+      <AnotherTestCategory />
     </CategoriesWrapper>
   );
 };

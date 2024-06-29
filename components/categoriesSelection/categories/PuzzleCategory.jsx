@@ -13,9 +13,10 @@ export const PuzzleCategory = () => {
     <StyledCategory>
       <StyledCategoryHeader>
         <Image
-          src="https://test.zanapo.cz/files/upload/vanoce-ikona.svg"
-          width={35}
-          height={35}
+          src="https://test.zanapo.cz/files/upload/puzzle-ikona.svg"
+          width={65}
+          height={65}
+          alt="ikona"
         />
         <h2>Puzzle</h2>
       </StyledCategoryHeader>

@@ -1,59 +1,60 @@
 import styled from "styled-components";
 
 export const CategoriesWrapper = styled.div`
-  max-width: ${({ theme }) => theme.maxWidth};
+  max-width: ${({ theme }) => theme.maxWidth || "1200px"};
   margin: 0 auto;
   margin-top: 40px;
-
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: 1fr 1fr;
-  gap: 10px;
-
-  .chess {
-    grid-column: 1/3;
-  }
-
-  .test {
-    grid-row 2/3;
-    grid-column: 2/4;
-  }
-  //background-color: ${({ theme }) => theme.backgroundGrey};
+  grid-auto-rows: auto;
+  gap: 20px; /* Increased gap for better spacing */
 `;
 
 export const StyledCategory = styled.div`
-  //max-height: 300px;
+  box-shadow: ${({ theme }) => theme.myMediumBoxShadow};
+  padding: 20px;
+  background-color: white;
+  border-radius: ${({ theme }) => theme.myBorderRadius};
+  display: flex;
+  flex-direction: column;
 
-  background-color: ${({ theme }) => theme.backgroundGrey};
-  //min-width: 300px;
-  padding: 0 30px;
-  padding-top: 30px;
+  &.chess,
+  &.puzzle {
+    //grid-column: span 2;
+  }
 
-  //display: flex;
-
-  //display: grid;
-  //grid-template-columns: 1fr;
-  //grid-template-rows: 0.1fr 0.3fr 0.6fr;
-  //align-content: space-between;
+  &.test {
+    //grid-row: span 1;
+    //grid-column: span 2;
+  }
 `;
 
 export const StyledCategoryHeader = styled.div`
   display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
 `;
 
 export const StyledSubCategory = styled.div`
   display: flex;
   flex-wrap: wrap;
+  gap: 10px;
 
   p {
-    &:not(:last-child)::after {
-      content: "|";
-      padding: 0 5px;
+    background-color: ${({ theme }) => theme.backgroundGrey};
+    padding: 5px 10px;
+    border-radius: ${({ theme }) => theme.myBorderRadius};
+    margin: 0;
+    font-size: 0.875rem;
+
+    &:hover {
+      color: ${({ theme }) => theme.fontOrange};
+      cursor: pointer;
     }
   }
 `;
 
 export const ImageWrapper = styled.div`
   width: 100%;
-  overflow: clip;
 `;

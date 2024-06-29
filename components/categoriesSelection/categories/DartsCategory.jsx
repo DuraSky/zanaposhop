@@ -14,8 +14,9 @@ export const DartsCategory = () => {
       <StyledCategoryHeader>
         <Image
           src="https://test.zanapo.cz/files/upload/sipky-ikona.svg"
-          width={35}
-          height={35}
+          width={65}
+          height={65}
+          alt="ikona"
         />
         <h2>Šipky</h2>
       </StyledCategoryHeader>
@@ -30,6 +31,7 @@ export const DartsCategory = () => {
         <p>Letky</p>
         <p>Doplňky</p>
       </StyledSubCategory>
+
       {/* 
       <ImageWrapper>
         <Image

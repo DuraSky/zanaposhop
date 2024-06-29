@@ -8,23 +8,23 @@ import {
   ImageWrapper,
 } from "../categoriesStyle";
 
-export const TestCategory2 = () => {
+export const AnotherTestCategory = () => {
   return (
     <StyledCategory className="anothertest">
       <StyledCategoryHeader>
         <Image
           src="https://test.zanapo.cz/files/upload/vanoce-ikona.svg"
-          width={35}
-          height={35}
+          width={65}
+          height={65}
+          alt="testing"
         />
-        <h2>cfbcfghdhgdhg</h2>
+        <h2>Houpaci site a kresla</h2>
       </StyledCategoryHeader>
 
       <StyledSubCategory>
         <p>Puzzle pro děti</p>
         <p>Puzzle pro dospělé</p>
-        <p>Puzzle dle počtu dílků</p>
-        <p>Svíticí puzzle</p>
+
         <p>Panoramatické puzzle</p>
         <p>Černobílé puzzle</p>
         <p>Příslušenství</p>

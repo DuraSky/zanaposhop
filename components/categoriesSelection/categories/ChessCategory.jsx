@@ -14,8 +14,9 @@ export const ChessCategory = () => {
       <StyledCategoryHeader>
         <Image
           src="https://test.zanapo.cz/files/upload/sachy-ikona.svg"
-          width={35}
-          height={35}
+          width={65}
+          height={65}
+          alt="ikona"
         />
         <h2>Šachy</h2>
       </StyledCategoryHeader>

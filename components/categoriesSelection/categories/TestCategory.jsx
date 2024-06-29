@@ -14,10 +14,11 @@ export const TestCategory = () => {
       <StyledCategoryHeader>
         <Image
           src="https://test.zanapo.cz/files/upload/vanoce-ikona.svg"
-          width={35}
-          height={35}
+          width={65}
+          height={65}
+          alt="test"
         />
-        <h2>cfbcfghdhgdhg</h2>
+        <h2>Vodni fontany</h2>
       </StyledCategoryHeader>
 
       <StyledSubCategory>
@@ -26,8 +27,6 @@ export const TestCategory = () => {
         <p>Puzzle dle počtu dílků</p>
         <p>Svíticí puzzle</p>
         <p>Panoramatické puzzle</p>
-        <p>Černobílé puzzle</p>
-        <p>Příslušenství</p>
       </StyledSubCategory>
       {/* <ImageWrapper>
         <Image
