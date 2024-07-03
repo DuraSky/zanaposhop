@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const StyledProduct = styled.div`
   //box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  box-shadow: ${({ theme }) => theme.myBorderBoxShadow};
+  //box-shadow: ${({ theme }) => theme.myBorderBoxShadow};
   border-radius: ${({ theme }) => theme.myBorderRadius};
   padding: 16px;
   text-align: center;

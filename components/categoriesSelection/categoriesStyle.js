@@ -11,7 +11,9 @@ export const CategoriesWrapper = styled.div`
 `;
 
 export const StyledCategory = styled.div`
-  box-shadow: ${({ theme }) => theme.myMediumBoxShadow};
+  box-shadow: ${({ theme }) => theme.myBorderBoxShadow};
+  //box-shadow: ${({ theme }) => theme.myMediumBoxShadow};
+
   padding: 20px;
   background-color: white;
   border-radius: ${({ theme }) => theme.myBorderRadius};

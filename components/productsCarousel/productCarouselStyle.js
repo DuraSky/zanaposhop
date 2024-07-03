@@ -37,7 +37,7 @@ export const CarouselItem = styled.div`
   flex: 0 0 20%; // Adjust this to show 5 items
   max-width: 20%; // Adjust this to show 5 items
   box-sizing: border-box;
-  padding: 10px;
+  padding: 20px;
   height: 400px; // Set a fixed height
   width: 150px;
   display: flex;
