@@ -1,0 +1,76 @@
+{
+  "fav_products": [
+    {
+      "bp_id": 47274,
+      "img": "https://test.zanapo.cz/files/thumbs/ee3557897d007739c215e26baf12e7f4/drevene-sachy-cerasus-280x.webp",
+      "name": "Dřevěné šachy Magnát",
+      "dostupnost": "ihned k odeslani",
+      "price": 3490.0,
+      "review": 1
+    },
+    {
+      "bp_id": 47275,
+      "img": "https://test.zanapo.cz/files/thumbs/ee3557897d007739c215e26baf12e7f4/drevene-sachy-cerasus-280x.webp",
+      "name": "Turnajové šachy velikost 7",
+      "dostupnost": "ihned k odeslani",
+      "price": 1738.8,
+      "review": 5
+    },
+    {
+      "bp_id": 473275,
+      "img": "https://test.zanapo.cz/files/thumbs/ee3557897d007739c215e26baf12e7f4/drevene-sachy-cerasus-280x.webp",
+      "name": "Elektronický třířádkový terč Bull's Matchpoint",
+      "dostupnost": "ihned k odeslani",
+      "price": 34.6,
+      "review": 3
+    },
+    {
+      "bp_id": 472744545,
+      "img": "https://test.zanapo.cz/files/thumbs/ee3557897d007739c215e26baf12e7f4/drevene-sachy-cerasus-280x.webp",
+      "name": "Dřevěné šachy Magnát",
+      "dostupnost": "ihned k odeslani",
+      "price": 3490.0,
+      "review": 1
+    },
+    {
+      "bp_id": 4727574,
+      "img": "https://test.zanapo.cz/files/thumbs/ee3557897d007739c215e26baf12e7f4/drevene-sachy-cerasus-280x.webp",
+      "name": "Turnajové šachy velikost 7",
+      "dostupnost": "ihned k odeslani",
+      "price": 1738.8,
+      "review": 5
+    },
+    {
+      "bp_id": 4732751111,
+      "img": "https://test.zanapo.cz/files/thumbs/ee3557897d007739c215e26baf12e7f4/drevene-sachy-cerasus-280x.webp",
+      "name": "Elektronický třířádkový terč Bull's Matchpoint",
+      "dostupnost": "ihned k odeslani",
+      "price": 34.6,
+      "review": 3
+    },
+    {
+      "bp_id": 47274234234,
+      "img": "https://test.zanapo.cz/files/thumbs/ee3557897d007739c215e26baf12e7f4/drevene-sachy-cerasus-280x.webp",
+      "name": "Dřevěné šachy Magnát",
+      "dostupnost": "ihned k odeslani",
+      "price": 3490.0,
+      "review": 1
+    },
+    {
+      "bp_id": 4727556757,
+      "img": "https://test.zanapo.cz/files/thumbs/ee3557897d007739c215e26baf12e7f4/drevene-sachy-cerasus-280x.webp",
+      "name": "Turnajové šachy velikost 7",
+      "dostupnost": "ihned k odeslani",
+      "price": 1738.8,
+      "review": 5
+    },
+    {
+      "bp_id": 473275234234,
+      "img": "https://test.zanapo.cz/files/thumbs/ee3557897d007739c215e26baf12e7f4/drevene-sachy-cerasus-280x.webp",
+      "name": "Elektronický třířádkový terč Bull's Matchpoint",
+      "dostupnost": "ihned k odeslani",
+      "price": 34.6,
+      "review": 3
+    }
+  ]
+}
