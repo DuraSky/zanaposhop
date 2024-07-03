@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-const itemLoader = (setProducts) => {
+const ItemLoader = (setProducts) => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
@@ -16,4 +16,4 @@ const itemLoader = (setProducts) => {
   }, []);
 };
 
-export default itemLoader;
+export default ItemLoader;

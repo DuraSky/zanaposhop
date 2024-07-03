@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Product } from "./product/Product";
-import itemLoader from "./ItemLoader";
+import ItemLoader from "./ItemLoader";
 import {
   CarouselWrapper,
   CarouselContainerWrapper,
@@ -13,7 +13,7 @@ import {
 export const ProductCarousel = () => {
   const [products, setProducts] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
-  itemLoader(setProducts);
+  ItemLoader(setProducts);
 
   const next = () => {
     if (currentIndex < products.length - 5) {
