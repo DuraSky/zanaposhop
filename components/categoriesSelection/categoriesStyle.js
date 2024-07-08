@@ -49,10 +49,14 @@ export const StyledSubCategory = styled.div`
     border-radius: ${({ theme }) => theme.myBorderRadius};
     margin: 0;
     font-size: 0.875rem;
+    transition: color 0.5s, transform 0.5s;
+    will-change: transform; // Hints to the browser to optimize for transformations
 
     &:hover {
       color: ${({ theme }) => theme.fontOrange};
       cursor: pointer;
+      transform: scale(1.1);
+      // Forces the element onto its own layer
     }
   }
 `;

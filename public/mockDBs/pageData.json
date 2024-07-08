@@ -1,0 +1,275 @@
+{
+  "categories": [],
+  "fav_products": [
+    {
+      "title": "Ten nejlepší výběr ze světa šachů",
+      "products": [
+        {
+          "bp_id": 47274,
+          "img": "https://test.zanapo.cz/files/thumbs/ee3557897d007739c215e26baf12e7f4/drevene-sachy-cerasus-280x.webp",
+          "name": "Dřevěné šachy Magnát",
+          "dostupnost": "ihned k odeslani",
+          "price": 3490.0,
+          "review": 1
+        },
+        {
+          "bp_id": 47275,
+          "img": "https://test.zanapo.cz/files/thumbs/bfff023e2795e3c2b4601a60e19b1639/drevene-sachy-ambassador-de-lux-original-4-1000x.webp",
+          "name": "Dřevěné šachy Ambassador De lux original - 54x54 cm",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 5
+        },
+        {
+          "bp_id": 47275123123,
+          "img": "https://test.zanapo.cz/files/thumbs/46a188f724249a7eb24de44db856016f/ch140f-1-1000x.webp",
+          "name": "Magnetické šachy Oracle velké",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 3
+        },
+        {
+          "bp_id": 47275567657,
+          "img": "https://test.zanapo.cz/files/thumbs/cb6c4e3cf6cdce8a270e0f68828da444/sachy-a-dama2v1--2000x.webp",
+          "name": "Šachy + dáma - 2v1",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 3
+        },
+        {
+          "bp_id": 47275678678678,
+          "img": "https://test.zanapo.cz/files/thumbs/e2f4b66b914e34665ac0a07e9c82fd10/drevene-sachy-atomic-3-1000x.webp",
+          "name": "Dřevěné šachy Narrow hnědé",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 5
+        },
+        {
+          "bp_id": 343434,
+          "img": "https://test.zanapo.cz/files/thumbs/cc8d67a4209b29457f6caae746ef132d/drevene-sachy-turnik11-2000x.webp",
+          "name": "Dřevěné šachy Turnik",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 4
+        },
+        {
+          "bp_id": 567567,
+          "img": "https://test.zanapo.cz/files/thumbs/a73b551d7cf3c02e8609706f69944818/drevene-sachy-judit-polgar-3-840x.webp",
+          "name": "Dřevěné šachy Judit Polgar + 2 dámy",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 4
+        }
+      ]
+    },
+    {
+      "title": "Kvalitní šipkové vybavení pro každého",
+      "products": [
+        {
+          "bp_id": 473275,
+          "img": "https://test.zanapo.cz/files/thumbs/a2363fe9f59e87ae4524a68152fbc84c/bulls-matchpoint-elektronicky-terc-67953-4784-2000x.webp",
+          "name": "Elektronický třířádkový terč Bull's Matchpoint",
+          "dostupnost": "ihned k odeslani",
+          "price": 34.6,
+          "review": 3
+        },
+        {
+          "bp_id": 4732751111,
+          "img": "https://test.zanapo.cz/files/thumbs/6dd8c11f7c16e5f3056f4bb6fb15c2d5/sipky-soft-quantum-harrows-main-2000x.webp",
+          "name": "Šipky Harrows Quantum 90% soft - R 18g",
+          "dostupnost": "ihned k odeslani",
+          "price": 34.6,
+          "review": 3
+        },
+        {
+          "bp_id": 5675,
+          "img": "https://test.zanapo.cz/files/thumbs/2e2a419196f3932f0e560d0313327116/sipky-soft-spina-harrows-1000x.webp",
+          "name": "Šipky Harrows Spina 90% soft - R 18g",
+          "dostupnost": "ihned k odeslani",
+          "price": 34.6,
+          "review": 5
+        },
+        {
+          "bp_id": 234234,
+          "img": "https://test.zanapo.cz/files/thumbs/89c59b0f963cb9d7686af5c5f4544d06/sipky-soft-noctis-harrows-main-1000x.webp",
+          "name": "Šipky Harrows Noctis 90% soft - R 18g",
+          "dostupnost": "ihned k odeslani",
+          "price": 34.6,
+          "review": 1
+        },
+        {
+          "bp_id": 567345,
+          "img": "https://test.zanapo.cz/files/thumbs/cdc1bbe9d2fea089d728dc84c4f2f8d8/sipky-steel-veridian-main-2000x.webp",
+          "name": "Šipky Harrows Veridian 90% soft - R 18g",
+          "dostupnost": "ihned k odeslani",
+          "price": 34.6,
+          "review": 1
+        },
+        {
+          "bp_id": 890567,
+          "img": "https://test.zanapo.cz/files/thumbs/f44deb5529ab89816407599d5566c475/sipky-steel-assassin-main-k-1-1000x.webp",
+          "name": "Šipky Harrows Assassin 80% steel - K 19g",
+          "dostupnost": "ihned k odeslani",
+          "price": 34.6,
+          "review": 1
+        },
+        {
+          "bp_id": 23465765656,
+          "img": "https://test.zanapo.cz/files/thumbs/7293387af10c86b72d22e59e389328f2/sipky-steel-blaze-main-1000x.webp",
+          "name": "Šipky Harrows Blaze steel - R 22g",
+          "dostupnost": "ihned k odeslani",
+          "price": 34.6,
+          "review": 5
+        },
+        {
+          "bp_id": 2346576,
+          "img": "https://test.zanapo.cz/files/thumbs/e4de8bddf4adb0681cb921f26cdbeda2/sipkova-sada-vespa-1000x.webp",
+          "name": "Šipky Harrows Vespa Brass soft 18g",
+          "dostupnost": "ihned k odeslani",
+          "price": 34.6,
+          "review": 4
+        }
+      ]
+    },
+    {
+      "title": "Staňte se umělcem a vytvořte si svůj obraz",
+      "products": [
+        {
+          "bp_id": 472744545,
+          "img": "https://test.zanapo.cz/files/thumbs/d1a24330f397beb70c5de188a9112d3d/005-andulka-2000x.webp",
+          "name": "Diamantové malování - Modrá andulka - 40x50 cm diamantové malování/mozaika",
+          "dostupnost": "ihned k odeslani",
+          "price": 3490.0,
+          "review": 1
+        },
+        {
+          "bp_id": 4727574,
+          "img": "https://test.zanapo.cz/files/thumbs/e803c5028bd72f293df174e92e87f765/017-labuti-jezero-2000x.webp",
+          "name": "Diamantové malování - Labutí jezero - 40x50 cm",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 4
+        },
+        {
+          "bp_id": 76867867,
+          "img": "https://test.zanapo.cz/files/thumbs/3c67ef16bc0e9495940333eb4e779823/037-psi-gratulace-2000x.webp",
+          "name": "Diamantové malování - Psí gratulace 3D - 40x50 cm",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 2
+        },
+        {
+          "bp_id": 76823456,
+          "img": "https://test.zanapo.cz/files/thumbs/bcd5dbfa79147a49a172deabc84b1f6d/042-seriky-a-kote-2000x.webp",
+          "name": "Diamantové malování - Šeříky a kotě 3D - 40x50 cm",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 4
+        },
+        {
+          "bp_id": 7892349,
+          "img": "https://test.zanapo.cz/files/thumbs/fabf19c59cfb60819af01ba5e5e5beb5/051-delfini-3d-2000x.webp",
+          "name": "Diamantové malování - Delfíni 3D - 40x50 cm",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 5
+        },
+        {
+          "bp_id": 12367834,
+          "img": "https://test.zanapo.cz/files/thumbs/3df0548858851a54a39e858e0dcdc6ec/00000005640-800x800-2000x.webp",
+          "name": "Diamantové malování - Modrá sova - 40x50 cm",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 5
+        },
+        {
+          "bp_id": 56123789,
+          "img": "https://test.zanapo.cz/files/thumbs/7820ad2d34750a7cc23d7c1982300baf/044-pohled-zelenych-oci-2000x.webp",
+          "name": "Diamantové malování - Pohled zelených očí - 40x50 cm",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 3
+        },
+        {
+          "bp_id": 853279,
+          "img": "https://test.zanapo.cz/files/thumbs/e749b48bfb976e560e5fd418ccc91ff2/084-kone-v-maji-2000x.webp",
+          "name": "Diamantové malování - Koně v máji - 40x50 cm",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 1
+        }
+      ]
+    },
+    {
+      "title": "Oblíbené umělé Vánoční stromky",
+      "products": [
+        {
+          "bp_id": 43785,
+          "img": "https://test.zanapo.cz/files/thumbs/4fcad7ff05b359a8f96bfc07bb1f1a5a/umely-vanocni-stromecek-jedle-eliza2-0x1800.webp",
+          "name": "Umělý vánoční stromeček Jedle Santa 220 cm",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 5
+        },
+        {
+          "bp_id": 673768,
+          "img": "https://test.zanapo.cz/files/thumbs/109b4445161ff0f41d0dee04e17aada1/umely-vanocni-stromecek-jedle-lux0-0x1800.webp",
+          "name": "Umělý vánoční stromeček Jedle SUPER LUX 220 cm",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 2
+        },
+        {
+          "bp_id": 66664324,
+          "img": "https://test.zanapo.cz/files/thumbs/1220e9df8f7172e43a13c655999e4187/jedle-beata-bile-konce-0x1800.webp",
+          "name": "Jedle Bella bílé konce 180 cm",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 2
+        },
+        {
+          "bp_id": 567234654,
+          "img": "https://test.zanapo.cz/files/thumbs/8981fee79e332d8a9d97c5d1138827e8/umely-stromecek-jedle-renata0-0x780.webp",
+          "name": "Umělý vánoční stromeček Jedle Aspect 2D 220 cm",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 4
+        },
+        {
+          "bp_id": 5554444323,
+          "img": "https://test.zanapo.cz/files/thumbs/b983c20a189c06629f266a72f35ae660/umely-vanocni-stromecek-jedle-ellegant01-0x1800.webp",
+          "name": "Umělý vánoční stromeček Jedle Ellegant 3D 220 cm",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 5
+        },
+        {
+          "bp_id": 334452545,
+          "img": "https://test.zanapo.cz/files/thumbs/81559ac837fd2c42b1281ad8018cd252/smrk-zasnezeny-0x780.webp",
+          "name": "Smrk sněžný 150 cm",
+          "dostupnost": "ihned k odeslani",
+          "price": 1738.8,
+          "review": 5
+        }
+      ]
+    }
+  ],
+  "blog_posts": [
+    {
+      "title": "Historie šachu - od antiky po současnost",
+      "img": "https://www.zanapo.cz/files/thumbs/0d7e45566062959c2a716fe7c3d81c07/drevene-sachy-clanek-blog-940x.webp"
+    },
+    {
+      "title": "Kdo vymyslel šachy? Historie šachu",
+      "img": "https://www.zanapo.cz/files/thumbs/ecb99031b632a7c9633dd3c5a5544677/historie-sachu-940x.webp"
+    },
+    {
+      "title": "Jak hrát šachy? Pravidla šachu jasně a přehledně",
+      "img": "https://www.zanapo.cz/files/thumbs/0f0ca92e6e5dc5bdba5b6581a55a604e/uceni-sachu-obrazek-940x.webp"
+    },
+    {
+      "title": "Jak vyhrát šachovou partii",
+      "img": "https://www.zanapo.cz/files/thumbs/c633d8a1b4c805788e313395038fda34/jak-vyhrat-sachovou-partii-940x.webp"
+    }
+  ]
+}

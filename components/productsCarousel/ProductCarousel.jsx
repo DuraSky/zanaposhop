@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Product } from "./product/Product";
-import ItemLoader from "./ItemLoader";
 import {
   CarouselWrapper,
   CarouselContainerWrapper,
@@ -10,10 +9,8 @@ import {
   CarouselHeader,
 } from "./productCarouselStyle";
 
-export const ProductCarousel = () => {
-  const [products, setProducts] = useState([]);
+export const ProductCarousel = ({ title, products }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
-  ItemLoader(setProducts);
 
   const next = () => {
     if (currentIndex < products.length - 5) {
@@ -29,7 +26,7 @@ export const ProductCarousel = () => {
 
   return (
     <CarouselWrapper>
-      <CarouselHeader>Ten nejlepší výběr ze světa šachů</CarouselHeader>
+      <CarouselHeader>{title}</CarouselHeader>
       <CarouselContainerWrapper>
         <CarouselButton onClick={prev} disabled={currentIndex === 0}>
           {"<"}

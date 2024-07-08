@@ -26,7 +26,6 @@ export const CarouselContainerWrapper = styled.div`
 export const CarouselContainer = styled.div`
   display: flex;
   overflow: hidden;
-  //width: 80%;
   .carousel-inner {
     display: flex;
     transition: transform 0.5s ease-in-out;
@@ -37,9 +36,11 @@ export const CarouselItem = styled.div`
   flex: 0 0 20%; // Adjust this to show 5 items
   max-width: 20%; // Adjust this to show 5 items
   box-sizing: border-box;
-  padding: 20px;
-  height: 400px; // Set a fixed height
-  width: 150px;
+  padding: 10px;
+  //height: 400px; // Set a fixed height
+  //width: 150px;
+  height: 100%;
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -55,7 +56,7 @@ export const CarouselButton = styled.button`
   background-color: #ddd;
   &:hover {
     background-color: ${({ theme }) => theme.fontOrange};
-    transform: scale(1.1);
+    transform: scale(1.2);
   }
   &:disabled {
     opacity: 0.5;

@@ -1,9 +1,8 @@
 import styled from "styled-components";
 
 export const StyledProduct = styled.div`
-  //box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  //box-shadow: ${({ theme }) => theme.myBorderBoxShadow};
   border-radius: ${({ theme }) => theme.myBorderRadius};
+  box-shadow: ${({ theme }) => theme.myBorderBoxShadow};
   padding: 16px;
   text-align: center;
   background-color: #fff;
@@ -13,16 +12,23 @@ export const StyledProduct = styled.div`
   justify-content: space-between;
   height: 100%;
   width: 100%;
+  //max-width: 220px;
   &:hover {
-    transform: translateY(-5px);
+    transform: translateY(-9px);
+
+    h3 {
+      color: ${({ theme }) => theme.fontOrange};
+    }
+
+    cursor: pointer;
   }
 `;
 
 export const ProductImage = styled.img`
   width: 100%;
-  height: auto;
+  height: 200px; // Fixed height for the image container
   border-radius: 8px 8px 0 0;
-  object-fit: cover;
+  object-fit: contain; // Ensures the image covers the container
 `;
 
 export const ProductName = styled.h3`
@@ -31,11 +37,10 @@ export const ProductName = styled.h3`
   flex-grow: 1;
 `;
 
-export const ProductReview = styled.p`
+export const ProductReview = styled.div`
   margin: 8px 0;
   font-size: 0.9em;
   color: #555;
-
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -44,7 +49,6 @@ export const ProductReview = styled.p`
 export const ProductPrice = styled.p`
   margin: 8px 0;
   font-size: 1.5em;
-
   font-weight: bold;
   color: #333;
 `;

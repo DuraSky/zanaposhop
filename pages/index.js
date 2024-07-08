@@ -7,12 +7,16 @@ import { theme } from "../components/Theme";
 
 import { Layout } from "../components/Layout";
 
+import { DataProvider } from "../components/DataContext";
+
 const App = ({ Component, pageProps }) => {
   return (
-    <ThemeProvider theme={theme}>
-      <GlobalStyle />
-      <Layout>{/* <Component {...pageProps} /> */}</Layout>
-    </ThemeProvider>
+    <DataProvider>
+      <ThemeProvider theme={theme}>
+        <GlobalStyle />
+        <Layout>{/* <Component {...pageProps} /> */}</Layout>
+      </ThemeProvider>
+    </DataProvider>
   );
 };
 
